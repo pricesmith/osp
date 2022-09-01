@@ -1,5 +1,5 @@
 # { fu }
-Fu Tooling Libraries, Inc.
+Tooling Libraries
 ---
 ### { gofu }
 ---
