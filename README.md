@@ -1,2 +1,1 @@
-# osp
-Everything OSP. 
+# **{ openSociety }**
